@@ -85,15 +85,6 @@ public class ShivamKakade {
 
 ---
 
-## 📈 Coding Activity
-
-<div align="center">
-
-[![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivxmmm&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## 🏆 GitHub Achievements
 
@@ -147,7 +138,7 @@ public class ShivamKakade {
 
 ### 💫 *Happy Coding!* 💫
 
-⭐ **From [shivxmmm](https://github.com/shivxmmm)** with lots of ☕ and ❤️
+⭐ **From [shivam](https://github.com/shivxmmm)** with lots of ☕ and ❤️
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%" />
 
