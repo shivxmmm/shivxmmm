@@ -19,11 +19,11 @@
 public class ShivamKakade {
     private String role = "Java Fullstack Developer";
     private String location = "India 🇮🇳";
-    private String passion = "Building scalable web applications";
+    private String passion = "I enjoy solving problems and crafting efficient and reliable systems!";
     private boolean alwaysLearning = true;
     
     public void sayHi() {
-        System.out.println("Welcome to my coding universe! ✨");
+        System.out.println("You've landed in my development domain!! ✨");
         System.out.println("Let's build something amazing together!");
     }
 }
