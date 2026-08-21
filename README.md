@@ -1,10 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=230&section=header&text=SHIVAM%20KAKADE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Fullstack%20Developer%20%E2%80%A2%20Backend%20%26%20Security%20Focused&descAlignY=56&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=230&section=header&text=Shivam%20Kakade&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Fullstack%20Developer%20%E2%80%A2%20Backend%20%26%20Security%20Focused&descAlignY=56&descSize=17" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=00C9FF&center=true&vCenter=true&width=680&lines=Building+secure+APIs+with+Spring+Boot;JWT+Auth+%2B+Spring+Security;Containerizing+with+Docker+%F0%9F%90%B3;Exploring+Spring+AI+%2B+React;Grinding+DSA+every+single+day+%F0%9F%A7%A0" alt="Typing SVG" />
+### 👋 Hi, I'm Shivam — Java Fullstack Developer from India 🇮🇳
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00C9FF&center=true&vCenter=true&width=680&lines=Building+secure+APIs+with+Spring+Boot;JWT+Auth+%2B+Spring+Security;Containerizing+with+Docker+%F0%9F%90%B3;Exploring+Spring+AI+%2B+React;Grinding+DSA+every+single+day+%F0%9F%A7%A0" alt="Typing SVG" />
 
 <br>
+
+<a href="mailto:shivamkakade79@gmail.com"><img src="https://img.shields.io/badge/Email-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/shivxmmm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shivam-kakade-570278255"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://leetcode.com/u/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=shivxmmm&label=PROFILE+VIEWS&color=4A00E0&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/shivxmmm?label=FOLLOWERS&style=for-the-badge&color=00C9FF&logo=github&logoColor=white" />
@@ -12,10 +22,6 @@
 </div>
 
 <br>
-
-<table align="center">
-<tr>
-<td width="55%" valign="top">
 
 ### 🚀 About Me
 
@@ -31,22 +37,9 @@ daily_ritual: DSA problems ☕
 philosophy: "Secure it. Test it. Ship it."
 ```
 
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/js-cube.gif" width="260">
-
-</td>
-</tr>
-</table>
-
 <br>
 
-<div align="center">
-
 ### 🛠️ Tech Stack
-
-</div>
 
 <table align="center" width="100%">
 <tr>
@@ -139,11 +132,9 @@ philosophy: "Secure it. Test it. Ship it."
 
 <br>
 
-<div align="center">
-
 ### 🧠 Daily Grind
 
-<table>
+<table align="center">
 <tr>
 <th>Focus</th>
 <th>What it looks like</th>
@@ -166,21 +157,9 @@ philosophy: "Secure it. Test it. Ship it."
 </tr>
 </table>
 
-</div>
-
 <br>
 
 <div align="center">
-
-### 🤝 Let's Connect
-
-<a href="mailto:shivamkakade79@gmail.com"><img src="https://img.shields.io/badge/Email-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/shivxmmm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/shivam-kakade-570278255"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://leetcode.com/u/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-
-<br><br>
 
 <i>"Secure it. Test it. Ship it."</i>
 
