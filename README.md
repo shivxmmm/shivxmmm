@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=230&section=header&text=Shivam%20Kakade&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Fullstack%20Developer%20%E2%80%A2%20Backend%20%26%20Security%20Focused&descAlignY=56&descSize=17" width="100%" />
-
+[![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shivam%20Kakade&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40)]
 ### 👋 Hi, I'm Shivam — Java Fullstack Developer from India 🇮🇳
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00C9FF&center=true&vCenter=true&width=680&lines=Building+secure+APIs+with+Spring+Boot;JWT+Auth+%2B+Spring+Security;Containerizing+with+Docker+%F0%9F%90%B3;Exploring+Spring+AI+%2B+React;Grinding+DSA+every+single+day+%F0%9F%A7%A0" alt="Typing SVG" />
