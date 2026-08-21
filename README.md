@@ -1,101 +1,189 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:22D3EE&height=200&section=header&text=Hey,%20I'm%20Shivam%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Fullstack%20Developer%20crafting%20secure%2C%20scalable%20systems&descAlignY=58&descSize=16" width="100%" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=650&lines=Spring+Boot+%2B+Spring+Security+%2B+JWT;Building+REST+APIs+that+scale;Dockerizing+everything+%F0%9F%90%B3;Exploring+Spring+AI+%2B+React;Solving+DSA+one+problem+at+a+time+%F0%9F%A7%A0" alt="Typing SVG" />
-<br/>
-<img src="https://komarev.com/ghpvc/?username=shivxmmm&label=Profile+Views&color=6366F1&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/shivxmmm?label=Followers&style=for-the-badge&color=22D3EE&logo=github&logoColor=white" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=230&section=header&text=SHIVAM%20KAKADE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Fullstack%20Developer%20%E2%80%A2%20Backend%20%26%20Security%20Focused&descAlignY=56&descSize=17" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=00C9FF&center=true&vCenter=true&width=680&lines=Building+secure+APIs+with+Spring+Boot;JWT+Auth+%2B+Spring+Security;Containerizing+with+Docker+%F0%9F%90%B3;Exploring+Spring+AI+%2B+React;Grinding+DSA+every+single+day+%F0%9F%A7%A0" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=shivxmmm&label=PROFILE+VIEWS&color=4A00E0&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/shivxmmm?label=FOLLOWERS&style=for-the-badge&color=00C9FF&logo=github&logoColor=white" />
+
 </div>
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
+<br>
+
 <table align="center">
 <tr>
-<td width="60%" valign="top">
-<h3 align="left">🧑‍💻 About Me</h3>
- 
-I build **secure, production-ready backend systems** with Java & Spring Boot — from authentication and authorization flows to containerized microservices. I care about clean architecture, solid API design, and code that doesn't break at 2 AM.
- 
-When I'm not shipping features, I'm sharpening my problem-solving with **DSA**, or experimenting with **Spring AI** and **React** on the side.
- 
+<td width="55%" valign="top">
+
+### 🚀 About Me
+
+I'm a **Java Fullstack Developer** who lives for clean architecture and systems that don't fall over. I build secure backends with **Spring Boot + Spring Security**, ship them in **Docker**, and design APIs people actually enjoy integrating with.
+
+When I'm not shipping code, I'm deep in **DSA** — because strong fundamentals beat shortcuts every time. Currently leveling up with **Spring AI** and sharpening the frontend side with **React**.
+
+```yaml
+role: Java Fullstack Developer
+focus: Secure, scalable backend systems
+currently_exploring: Spring AI, React
+daily_ritual: DSA problems ☕
+philosophy: "Secure it. Test it. Ship it."
 ```
-🔐 Currently building : Secure REST APIs with JWT
-🐳 Shipping with       : Docker
-🧠 Practicing daily    : Data Structures & Algorithms
-🤖 Exploring           : Spring AI
-```
- 
+
 </td>
-<td width="40%" valign="top" align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/js-cube.gif" width="260"/>
+<td width="45%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/js-cube.gif" width="260">
+
 </td>
 </tr>
 </table>
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-<h3 align="center">⚡ Tech Stack</h3>
- 
+
+<br>
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,mongodb,docker,git,postman,idea&theme=dark&perline=9" />
-<br/><br/>
- 
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT_Auth-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+
+### 🛠️ Tech Stack
+
 </div>
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-<h3 align="center">🎯 What I Work With</h3>
- 
-<table align="center">
+
+<table align="center" width="100%">
 <tr>
-<th>🔐 Auth & Security</th>
-<th>🌐 APIs & Backend</th>
-<th>🐳 DevOps</th>
-<th>🧠 Problem Solving</th>
+<td valign="top" width="50%">
+
+**🧩 Languages**
+
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark" />
+
+</td>
+<td valign="top" width="50%">
+
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,redux,vite&theme=dark" />
+
+</td>
 </tr>
 <tr>
-<td align="center">Spring Security</td>
-<td align="center">Spring Boot</td>
-<td align="center">Docker</td>
-<td align="center">Data Structures</td>
+<td valign="top" width="50%">
+
+**⚙️ Backend & Security**
+
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="47"/>
+<br><br>
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="47"/>
+
+</td>
+<td valign="top" width="50%">
+
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=dark" />
+
+</td>
 </tr>
 <tr>
-<td align="center">JWT Authentication</td>
-<td align="center">REST API Design</td>
-<td align="center">MySQL</td>
-<td align="center">Algorithms</td>
-</tr>
-<tr>
-<td align="center">Role-based Access</td>
-<td align="center">Spring AI</td>
-<td align="center">MongoDB</td>
-<td align="center">System Design</td>
+<td valign="top" width="50%">
+
+**☁️ DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,git&theme=dark" />
+
+</td>
+<td valign="top" width="50%">
+
+**🧰 Tools & IDEs**
+
+<img src="https://skillicons.dev/icons?i=github,vscode,idea,postman,figma&theme=dark" />
+
+</td>
 </tr>
 </table>
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-<h3 align="center">📊 GitHub Stats</h3>
- 
+
+<br>
+
 <div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivxmmm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=22D3EE&text_color=c9d1d9" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivxmmm&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" />
-<img width="62%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivxmmm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" />
+
+### 📊 GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivxmmm&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00C9FF&icon_color=8E2DE2&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivxmmm&theme=radical&hide_border=true&background=0D1117&stroke=00C9FF&ring=8E2DE2&fire=00C9FF&currStreakLabel=00C9FF" />
+
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivxmmm&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9" />
+
 </div>
+
+<br>
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivxmmm&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=22D3EE&point=ffffff" width="92%" />
+
+### ⚡ Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivxmmm&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C9FF&line=8E2DE2&point=ffffff" width="92%" />
+
 </div>
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-<h3 align="center">🏆 Trophies</h3>
- 
+
+<br>
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shivxmmm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" />
+
+### 🏆 Trophy Case
+
+<img src="https://github-profile-trophy.vercel.app/?username=shivxmmm&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4" />
+
 </div>
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
+<br>
+
 <div align="center">
-<i>"Secure it. Test it. Ship it."</i>
- 
-<br/><br/>
- 
-<a href="mailto:shivamkakade79@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+### 🧠 Daily Grind
+
+<table>
+<tr>
+<th>Focus</th>
+<th>What it looks like</th>
+</tr>
+<tr>
+<td align="center">🔐 Security</td>
+<td>Auth flows, role-based access, encrypted-by-default APIs</td>
+</tr>
+<tr>
+<td align="center">🌐 APIs</td>
+<td>Clean, documented, versioned REST endpoints</td>
+</tr>
+<tr>
+<td align="center">🐳 Infra</td>
+<td>Dockerized services, reproducible environments</td>
+</tr>
+<tr>
+<td align="center">🧠 DSA</td>
+<td>Arrays, trees, graphs, DP — one problem a day</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+<a href="mailto:shivamkakade79@gmail.com"><img src="https://img.shields.io/badge/Email-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/shivxmmm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/shivam-kakade-570278255"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- 
+<a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://leetcode.com/u/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+
+<br><br>
+
+<i>"Secure it. Test it. Ship it."</i>
+
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:8B5CF6,100:6366F1&height=120&section=footer" width="100%" />
- 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=120&section=footer" width="100%" />
